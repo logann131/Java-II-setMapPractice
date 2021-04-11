@@ -1,3 +1,8 @@
+/* Nam Phu Nguyen (Logan)
+   IT220-JAVA II 
+   Programing Assignment
+ */ 
+
 import java.io.File;
 import java.io.IOException;
 import java.util.*;
